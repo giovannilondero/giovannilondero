@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Giovanni 👋
+
+Passionately curious, always eager to learn something new.
+
+Main interests
+- 💻 software development (web and mobile apps)
+- 🎨 UX and UI design 
+
+🌱 I’m currently learning UX and UI design, focusing on UX design for mobile apps.
 
 <!--
 **giovannilondero/giovannilondero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
