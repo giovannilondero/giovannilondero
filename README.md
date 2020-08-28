@@ -3,8 +3,8 @@
 Passionately curious, always eager to learn something new.
 
 Main interests
-- 💻 software development (web and mobile apps)
-- 🎨 UX and UI design 
+- software development (web and mobile apps) 💻
+- UX and UI design 🎨
 
 🌱 I’m currently learning UX and UI design, focusing on UX design for mobile apps.
 
