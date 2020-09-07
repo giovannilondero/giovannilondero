@@ -4,7 +4,7 @@ Passionately curious, always eager to learn something new.
 
 Mobile app developer 📱
 
-Main interests
+Main interests:
 - 💻 software development (web and mobile apps)
 - 🎨 UX and UI design
 
