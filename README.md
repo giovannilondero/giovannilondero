@@ -2,13 +2,13 @@
 
 Passionately curious, always eager to learn something new.
 
-Mobile app developer 📱
+Mobile app developer (w/ Flutter and Ionic) and web devolper (w/ Angular and React) 📱
 
-Main interests:
-- 💻 software development (web and mobile apps)
-- 🎨 UX and UI design
+🌱 💻  I’m currently learning about native Android and iOS development, and Java Boot Spring web development.
 
-🌱 I’m currently learning about UX and UI design, focusing on UX design for mobile apps.
+📚  Lately I've been reading a lot about OOP design patterns, functional programming and domain-driven design.
+
+🎨  Learning about UI and especially UX design in the remaining free time.
 
 Still getting used to github and open source, here are my stats to remind me to improve them everyday:
 
