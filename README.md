@@ -4,7 +4,7 @@ Passionately curious, always eager to learn something new.
 
 Mobile app developer (w/ Flutter and Ionic) and web devolper (w/ Angular and React) 📱
 
-🌱 💻  I’m currently learning about native Android and iOS development, and Java Boot Spring web development.
+🌱 💻  Always improving my skills, plus learning about NodeJS, Kotlin and Rust.
 
 📚  Lately I've been reading a lot about OOP design patterns, functional programming and domain-driven design.
 
