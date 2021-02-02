@@ -2,7 +2,7 @@
 
 Passionately curious, always eager to learn something new.
 
-Mobile app developer (w/ Flutter and Ionic) and web devolper (w/ Angular and React) 📱
+Mobile app developer (w/ Flutter and Ionic) and web devolper (w/ React and Angular) 📱
 
 🌱 💻  Always improving my skills, plus learning about NodeJS, Kotlin and Rust.
 
