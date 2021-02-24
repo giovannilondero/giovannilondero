@@ -2,17 +2,19 @@
 
 Passionately curious, always eager to learn something new.
 
-Mobile app developer (w/ Flutter and Ionic) and web devolper (w/ React and Angular) 📱
+Web and mobile developer. What a love the most, at the moment, is playing with Flutter.
 
-🌱 💻  Always improving my skills, plus learning about NodeJS, Kotlin and Rust.
+🌱 Always improving my skills.
 
-📚  Lately I've been reading a lot about OOP design patterns, functional programming and domain-driven design.
+📚 I love reading about programming 💻 and design 🎨.
 
-🎨  Learning about UI and especially UX design in the remaining free time.
-
-Still getting used to github and open source, here are my stats to remind me to improve them everyday:
+Here are my stats on GitHub to remind me to improve them everyday:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=giovannilondero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+Contacts:
+
+<img src="./assets/linkedin.png" title="Linkedin" height="14"> https://www.linkedin.com/in/giovanni-londero/
 
 <!--
 **giovannilondero/giovannilondero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
