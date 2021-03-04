@@ -1,7 +1,5 @@
 ### Hi, I'm Giovanni 👋
 
-Passionately curious, always eager to learn something new.
-
 Passionate about web and mobile development. In 💙 Flutter.
 
 - 🚀 Main skills in Flutter, CSS, React and Angular.
@@ -9,8 +7,15 @@ Passionate about web and mobile development. In 💙 Flutter.
 - 📚 I love reading about programming and design 💻🎨.
 - 📫 How to reach me: [Github](https://github.com/giovannilondero/giovannilondero), [Twitter](https://twitter.com/GiovanniLondero/), [Linkedin](https://www.linkedin.com/in/giovanni-londero/)
 
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=giovannilondero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
+[![Giovanni's github stats](https://github-readme-stats.vercel.app/api?username=giovannilondero&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
+
 ### Languages & tools:
 
+- Main:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -20,15 +25,10 @@ Passionate about web and mobile development. In 💙 Flutter.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+- Secondary:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=giovannilondero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
--->
-
-[![Giovanni's github stats](https://github-readme-stats.vercel.app/api?username=giovannilondero&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
 
 ### Follow me:
 
