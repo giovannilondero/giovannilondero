@@ -1,6 +1,6 @@
 ### Hi, I'm Giovanni 👋
 
-Passionate about web and mobile development. In 💙 Flutter.
+Passionate about web and mobile development. In 💙 with Flutter.
 
 - 🚀 Main skills in Flutter, CSS, React and Angular.
 - 🌱 I’m currently learning Android Kotlin, Swift UI, and Rust.
