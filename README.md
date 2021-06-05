@@ -3,7 +3,7 @@
 Passionate about web and mobile development. In 💙 with Flutter.
 
 - 🚀 Main skills in Flutter, CSS, React and Angular.
-- 🌱 I’m currently learning Kotlin, Swift, and Rust.
+- 🌱 I’m currently learning Kotlin, Swift, then Rust and Elixir.
 - 📚 I love reading about programming and design 💻🎨.
 - 📫 How to reach me: [Github](https://github.com/giovannilondero/giovannilondero), [Twitter](https://twitter.com/GiovanniLondero/), [Linkedin](https://www.linkedin.com/in/giovanni-londero/)
 
