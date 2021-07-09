@@ -1,9 +1,9 @@
 ### Hi, I'm Giovanni 👋
 
-Passionate about web and mobile development. In 💙 with Flutter.
+Passionate about web and mobile development.
 
-- 🚀 Main skills in Flutter, CSS, React and Angular.
-- 🌱 I’m currently learning Kotlin, Swift, then Rust and Elixir.
+- 🚀 Main skills in Flutter, CSS, React.
+- 🌱 I’m currently learning Kotlin, Swift, then Rust.
 - 📚 I love reading about programming and design 💻🎨.
 - 📫 How to reach me: [Github](https://github.com/giovannilondero/giovannilondero), [Twitter](https://twitter.com/GiovanniLondero/), [Linkedin](https://www.linkedin.com/in/giovanni-londero/)
 
@@ -11,9 +11,8 @@ Passionate about web and mobile development. In 💙 with Flutter.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -21,7 +20,6 @@ Passionate about web and mobile development. In 💙 with Flutter.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
 ### Github stats
 
