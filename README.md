@@ -2,8 +2,8 @@
 
 Passionate about web and mobile development.
 
-- 🚀 &nbsp;Main skills in Flutter, CSS, React.
-- 🌱 &nbsp;I’m currently learning Swift and iOS development.
+- 🚀 &nbsp;Main skills in TypeScript, React (Native too), CSS.
+- 🌱 &nbsp;I’m currently deepening my knowledge of React Native and app architecture.
 - 📚 &nbsp;I love reading about programming and design 💻🎨.
 - 📫 &nbsp;How to reach me: [Github](https://github.com/giovannilondero/giovannilondero), [Twitter](https://twitter.com/GiovanniLondero/), [Linkedin](https://www.linkedin.com/in/giovanni-londero/)
 
