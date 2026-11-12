@@ -41,7 +41,7 @@ jobs:
         with:
           card: stats
           path: profile/stats-light.svg
-          options: '?${{ env.CARD_OPTIONS }}&theme=github_light'
+          options: '?${{ env.CARD_OPTIONS }}&theme=verdigris_light'
           # An optional STATS_PAT repository secret takes over from the workflow token
           token: ${{ secrets.STATS_PAT || github.token }}
 
@@ -50,7 +50,7 @@ jobs:
         with:
           card: stats
           path: profile/stats-dark.svg
-          options: '?${{ env.CARD_OPTIONS }}&theme=github_dark'
+          options: '?${{ env.CARD_OPTIONS }}&theme=verdigris_dark'
           token: ${{ secrets.STATS_PAT || github.token }}
 
       - name: Commit if anything changed
